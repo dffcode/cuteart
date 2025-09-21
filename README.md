@@ -1,4 +1,5 @@
 Сайт на базе WordPress с плагином WooCommerce, чатом и миниблогом для маркетинга в поисковиках.
+
 Ссылка на сайт: https://cuteart.ru
 ![site1](https://github.com/user-attachments/assets/e22369a7-c814-4fd5-9803-0bbf8f9becd0)
 
