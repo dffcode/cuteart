@@ -1,0 +1,1 @@
+[{"name":"LearnDash_Settings_Lessons_Taxonomies","fields":{"ld_lesson_category":"yes","ld_lesson_tag":"yes","wp_post_category":"","wp_post_tag":""}},{"name":"LearnDash_Settings_Lessons_CPT","fields":{"include_in_search":"yes","search_login_only":"","search_enrolled_only":"","has_archive":"","has_feed":"","supports":["thumbnail","revisions"]}}]

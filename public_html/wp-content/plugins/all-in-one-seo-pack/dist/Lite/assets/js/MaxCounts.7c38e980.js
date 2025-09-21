@@ -1,0 +1,1 @@
+import"./translations.d159963e.js";import{s as r,_ as s}from"./default-i18n.20001971.js";const e="all-in-one-seo-pack",l=()=>({maxRecommendedCount:(n,o)=>{const t=n>o?' class="error"':"";return r(s("%1$s out of %2$s max recommended characters.",e),`<strong${t}>${n}</strong>`,`<strong>${o}</strong>`)}});export{l as u};

@@ -1,0 +1,1339 @@
+# Copyright (C) 2025 Kadence WP
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Starter Templates by Kadence WP 2.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kadence-starter-templates\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-03-18T17:28:47+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: kadence-starter-templates\n"
+
+#. Plugin Name of the plugin
+#: class-kadence-starter-templates.php:764
+#: class-kadence-starter-templates.php:768
+#: class-kadence-starter-templates.php:772
+msgid "Starter Templates by Kadence WP"
+msgstr ""
+
+#. Description of the plugin
+msgid "Launch a beautiful website with the power of AI or using our classic pre built style."
+msgstr ""
+
+#. Author of the plugin
+msgid "Kadence WP"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://kadencewp.com/"
+msgstr ""
+
+#: class-kadence-starter-templates.php:676
+msgid "Cloning instances of the class is forbidden."
+msgstr ""
+
+#: class-kadence-starter-templates.php:687
+msgid "Unserializing instances of the class is forbidden."
+msgstr ""
+
+#: class-kadence-starter-templates.php:745
+msgid "View Template Library"
+msgstr ""
+
+#: class-kadence-starter-templates.php:764
+#: class-kadence-starter-templates.php:768
+#: class-kadence-starter-templates.php:773
+msgid "Starter Templates"
+msgstr ""
+
+#: class-kadence-starter-templates.php:898
+msgid "WooCommerce is a flexible, open-source eCommerce solution built on WordPress."
+msgstr ""
+
+#: class-kadence-starter-templates.php:909
+msgid "Kadence Blocks provides a collection powerful tools for the WordPress block editor."
+msgstr ""
+
+#: class-kadence-starter-templates.php:915
+msgid "Kadence Blocks Pro is a plugin that adds additional features to Kadence Blocks."
+msgstr ""
+
+#: class-kadence-starter-templates.php:921
+msgid "Kadence Pro is a plugin that adds additional features to the Kadence Theme."
+msgstr ""
+
+#: class-kadence-starter-templates.php:937
+msgid "LearnDash is a learning management system (LMS) plugin for WordPress."
+msgstr ""
+
+#: class-kadence-starter-templates.php:943
+msgid "Add a course grid to any page or post."
+msgstr ""
+
+#: class-kadence-starter-templates.php:959
+msgid "GiveWP is the perfect online fundraising platform to increase your online donations."
+msgstr ""
+
+#: class-kadence-starter-templates.php:965
+msgid "The Events Calendar is a carefully crafted, extensible plugin that lets you easily manage and share events."
+msgstr ""
+
+#: class-kadence-starter-templates.php:971
+msgid "Event Tickets provides a simple way for visitors to RSVP or purchase tickets to your events."
+msgstr ""
+
+#: class-kadence-starter-templates.php:977
+msgid "Take restaurant orders online with Orderable. The WooCommerce plugin designed to help you manage your restaurant, your way – with no added fees!"
+msgstr ""
+
+#: class-kadence-starter-templates.php:988
+msgid "Kadence Shop Kit adds additional features to WooCommerce."
+msgstr ""
+
+#: class-kadence-starter-templates.php:994
+msgid "Kadence WooCommerce Email Designer lets you customize the default WooCommerce emails."
+msgstr ""
+
+#: class-kadence-starter-templates.php:1010
+msgid "Security, Two Factor Authentication, and Brute Force Protection"
+msgstr ""
+
+#: class-kadence-starter-templates.php:1250
+msgid "Please Note: Full site importing is designed for new/empty sites with no content. Your site customizer settings, widgets, menus will all be overridden."
+msgstr ""
+
+#: class-kadence-starter-templates.php:1252
+msgid "Removing Past Imported Content"
+msgstr ""
+
+#: class-kadence-starter-templates.php:1253
+msgid "Getting Started"
+msgstr ""
+
+#: class-kadence-starter-templates.php:1254
+msgid "Checking/Installing/Activating Required Plugins"
+msgstr ""
+
+#: class-kadence-starter-templates.php:1255
+msgid "Importing Content..."
+msgstr ""
+
+#: class-kadence-starter-templates.php:1256
+msgid "Importing Content... Creating pages."
+msgstr ""
+
+#: class-kadence-starter-templates.php:1257
+msgid "Importing Content... Downloading images."
+msgstr ""
+
+#: class-kadence-starter-templates.php:1258
+msgid "Importing Content... Still Importing."
+msgstr ""
+
+#: class-kadence-starter-templates.php:1259
+msgid "Importing Widgets..."
+msgstr ""
+
+#: class-kadence-starter-templates.php:1260
+msgid "Importing Customizer Settings..."
+msgstr ""
+
+#: class-kadence-starter-templates.php:1308
+msgid "Config Kadence Starter Templates"
+msgstr ""
+
+#: class-kadence-starter-templates.php:1321
+msgid "Config Kadence Block Prophecy AI"
+msgstr ""
+
+#: class-kadence-starter-templates.php:2071
+#: class-kadence-starter-templates.php:2082
+#: class-kadence-starter-templates.php:2471
+#: class-kadence-starter-templates.php:2482
+#: class-kadence-starter-templates.php:2697
+#: class-kadence-starter-templates.php:2708
+msgid "Downloaded files"
+msgstr ""
+
+#: class-kadence-starter-templates.php:2078
+#: class-kadence-starter-templates.php:2478
+#: class-kadence-starter-templates.php:2704
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: class-kadence-starter-templates.php:2087
+#: class-kadence-starter-templates.php:2455
+#: class-kadence-starter-templates.php:2487
+#: class-kadence-starter-templates.php:2681
+#: class-kadence-starter-templates.php:2713
+msgid "No import files specified!"
+msgstr ""
+
+#: class-kadence-starter-templates.php:2795
+msgid "%1$sFinished! View your page%2$s"
+msgstr ""
+
+#: class-kadence-starter-templates.php:2803
+msgid "%1$sFinished! View your site%2$s"
+msgstr ""
+
+#: class-kadence-starter-templates.php:2811
+msgid "%1$sThe demo import has finished, but there were some import errors.%2$sMore details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr ""
+
+#: class-kadence-starter-templates.php:2822
+msgid "%1$sThe demo import has finished, but there were some import errors.%2$sPlease check your php error logs if site is incomplete.%3$s"
+msgstr ""
+
+#: inc/class-customizer-importer.php:38
+#: inc/class-customizer-importer.php:47
+msgid "Importing customizer settings"
+msgstr ""
+
+#: inc/class-customizer-importer.php:45
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: inc/class-customizer-importer.php:95
+#: inc/class-customizer-importer.php:205
+#: inc/class-customizer-importer.php:264
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: inc/class-customizer-importer.php:113
+#: inc/class-customizer-importer.php:224
+#: inc/class-customizer-importer.php:283
+msgid "Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file."
+msgstr ""
+
+#: inc/class-customizer-importer.php:119
+#: inc/class-customizer-importer.php:230
+msgid "Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: inc/class-downloader.php:62
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: inc/class-downloader.php:80
+msgid "An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - %6$s."
+msgstr ""
+
+#: inc/class-helpers.php:258
+#: inc/class-helpers.php:301
+msgid "An error occurred while writing file to your server! Tried to write a file to: %s%s."
+msgstr ""
+
+#: inc/class-helpers.php:335
+msgid "An error occurred while reading a file from your server! Tried reading file from path: %s%s."
+msgstr ""
+
+#: inc/class-helpers.php:359
+msgid "This WordPress page does not have %sdirect%s write file access. This plugin needs it in order to save the demo import xml file to the upload directory of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: inc/class-helpers.php:370
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/class-helpers.php:371
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/class-helpers.php:383
+msgid "An error occurred while retrieving reading/writing permissions to your server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: inc/class-helpers.php:391
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: inc/class-helpers.php:431
+msgid "One Click Demo Import - "
+msgstr ""
+
+#: inc/class-helpers.php:465
+msgid "%sYour user role isn't high enough. You don't have permission to import demo data.%s"
+msgstr ""
+
+#: inc/class-helpers.php:498
+msgid "No file provided."
+msgstr ""
+
+#: inc/class-helpers.php:527
+msgid "Content file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/class-helpers.php:531
+#: inc/class-helpers.php:549
+#: inc/class-helpers.php:567
+#: inc/class-helpers.php:579
+#: inc/class-helpers.php:599
+#: inc/class-helpers.php:608
+msgid "Upload files"
+msgstr ""
+
+#: inc/class-helpers.php:545
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/class-helpers.php:563
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/class-helpers.php:577
+msgid "Missing Redux option name! Please also enter the Redux option name!"
+msgstr ""
+
+#: inc/class-helpers.php:595
+msgid "Redux file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/class-helpers.php:606
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: inc/class-helpers.php:626
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: inc/class-helpers.php:630
+msgid "Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s%1$sCustomizer file = %5$s%1$sForm File:%1$s%6$s"
+msgstr ""
+
+#: inc/class-helpers.php:633
+#: inc/class-helpers.php:634
+#: inc/class-helpers.php:635
+#: inc/class-helpers.php:636
+msgid "not defined!"
+msgstr ""
+
+#: inc/class-import-depicter.php:32
+msgid "Slider Import ID:"
+msgstr ""
+
+#: inc/class-import-depicter.php:32
+msgid "No results for Slider Import"
+msgstr ""
+
+#: inc/class-import-depicter.php:36
+msgid "Importing Slider"
+msgstr ""
+
+#: inc/class-import-export-option.php:107
+msgid "Please choose a file to import."
+msgstr ""
+
+#: inc/class-import-export-option.php:157
+msgid "Import/Export"
+msgstr ""
+
+#: inc/class-import-export-option.php:281
+msgid "Error importing settings! Please try again."
+msgstr ""
+
+#: inc/class-import-export-option.php:301
+#: inc/class-import-export-option.php:305
+msgid "Error importing settings! Please check that you uploaded a customizer export file."
+msgstr ""
+
+#: inc/class-import-export-option.php:309
+msgid "Error importing settings! The settings you uploaded are not for the Kadence Theme."
+msgstr ""
+
+#: inc/class-import-fluent.php:52
+#: inc/class-import-fluent.php:64
+msgid "Importing forms"
+msgstr ""
+
+#: inc/class-import-fluent.php:99
+#: inc/class-import-give.php:188
+#: inc/class-import-give.php:212
+msgid "Error: Form import file could not be found."
+msgstr ""
+
+#: inc/class-import-fluent.php:124
+#: inc/class-import-fluent.php:139
+msgid "Error: Form import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/class-import-fluent.php:216
+msgid "No results for form import!"
+msgstr ""
+
+#: inc/class-import-give.php:53
+#: inc/class-import-give.php:63
+msgid "Importing Give forms"
+msgstr ""
+
+#: inc/class-import-give.php:57
+msgid "No results for Give Form import!"
+msgstr ""
+
+#: inc/class-import-give.php:95
+#: inc/class-widget-importer.php:123
+msgid "Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/class-import-give.php:143
+#: inc/class-import-give.php:153
+msgid "Importing Give Donations"
+msgstr ""
+
+#: inc/class-import-give.php:147
+msgid "No results for Give import!"
+msgstr ""
+
+#: inc/class-import-give.php:237
+msgid "Error: Give import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/class-import-give.php:262
+msgid "Give data has been successfully imported."
+msgstr ""
+
+#: inc/class-importer.php:588
+#: inc/class-importer.php:810
+msgid "New AJAX call!"
+msgstr ""
+
+#: inc/class-starter-ai-events.php:71
+msgid "The Event Label"
+msgstr ""
+
+#: inc/class-starter-ai-events.php:76
+msgid "The Event Data"
+msgstr ""
+
+#: inc/class-starter-import-processes.php:1673
+#: inc/class-widget-importer.php:161
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/class-starter-import-processes.php:1694
+#: inc/class-widget-importer.php:182
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/class-starter-import-processes.php:1807
+#: inc/class-widget-importer.php:280
+msgid "Imported"
+msgstr ""
+
+#: inc/class-starter-import-processes.php:1810
+#: inc/class-widget-importer.php:283
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/class-starter-import-processes.php:1816
+#: inc/class-widget-importer.php:289
+msgid "No Title"
+msgstr ""
+
+#: inc/class-starter-import-processes.php:2402
+#: inc/class-starter-import-processes.php:2784
+#: inc/class-starter-import-processes.php:2981
+#: inc/class-starter-import-processes.php:3009
+#: inc/class-starter-import-processes.php:3540
+#: inc/class-template-library-rest-api.php:2311
+#: inc/class-template-library-rest-api.php:2660
+#: inc/class-template-library-rest-api.php:2688
+#: inc/class-template-library-rest-api.php:3224
+msgid "Photo by"
+msgstr ""
+
+#: inc/class-starter-import-processes.php:2683
+msgid "Donation Form"
+msgstr ""
+
+#: inc/class-template-database-importer.php:336
+#: inc/class-template-database-importer.php:365
+#: inc/class-template-library-rest-api.php:795
+msgid "No template data"
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3441
+msgid "The requested ai context."
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3446
+#: inc/launch-guide/class-site-assist-rest-api.php:522
+msgid "The requested library."
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3451
+msgid "The requested library URL."
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3457
+#: inc/launch-guide/class-site-assist-rest-api.php:528
+msgid "Force a refresh of the context."
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3462
+#: inc/launch-guide/class-site-assist-rest-api.php:533
+msgid "Library Key."
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3467
+msgid "Kadence License Key."
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3472
+msgid "Kadence License Email."
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3477
+msgid "Kadence License Product ID."
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3482
+msgid "Import Page."
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3487
+msgid "Import Plugins"
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3496
+msgid "Import Plugin"
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3501
+msgid "The selected Industry"
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3506
+#: inc/class-template-library-rest-api.php:3516
+msgid "The Image type to return"
+msgstr ""
+
+#: inc/class-template-library-rest-api.php:3511
+msgid "The industries to return"
+msgstr ""
+
+#: inc/class-widget-importer.php:44
+#: inc/class-widget-importer.php:56
+msgid "Importing widgets"
+msgstr ""
+
+#: inc/class-widget-importer.php:93
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: inc/class-widget-importer.php:215
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/class-widget-importer.php:336
+msgid "No results for widget import!"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:87
+msgid "Site Assist Tasks"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:96
+msgid "The current status of the language tasks."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:100
+msgid "The current status of the logo tasks."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:104
+msgid "The current status of the timezone tasks."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:108
+msgid "The current status of the color tasks."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:112
+msgid "The current status of the header tasks."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:116
+msgid "The current status of the footer tasks."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:120
+msgid "The current status of the typography tasks."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:124
+msgid "The current status of the button tasks."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:128
+msgid "The current status of the post tasks."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:132
+msgid "The current status of the archive tasks."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:136
+msgid "The current status of the email test tasks."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:195
+#: inc/launch-guide/class-site-assist-dash.php:196
+#: inc/launch-guide/class-site-assist-dash.php:287
+msgid "Site Assist by Kadence WP"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:195
+#: inc/launch-guide/class-site-assist-dash.php:196
+#: dist/starter-dash.js:1
+msgid "Site Assist"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:251
+msgid "Kadence Theme"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:257
+msgid "Kadence Blocks"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:263
+msgid "Solid Mail"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:269
+msgid "Solid Security"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:275
+msgid "GiveWP"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:340
+msgid "Donation Form Setup"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:341
+msgid "Setup a donation form to make sure you have a way to collect donations."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:345
+msgid "Activate GiveWP plugin"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:345
+msgid "Install GiveWP plugin"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:346
+msgid "Install and Activate the GiveWP plugin."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:347
+#: inc/launch-guide/class-site-assist-dash.php:443
+#: inc/launch-guide/class-site-assist-dash.php:563
+#: inc/launch-guide/class-site-assist-dash.php:699
+msgid "Activate"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:347
+#: inc/launch-guide/class-site-assist-dash.php:443
+#: inc/launch-guide/class-site-assist-dash.php:563
+msgid "Install"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:355
+msgid "Configure GiveWP"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:356
+msgid "Configure the GiveWP plugin."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:357
+#: inc/launch-guide/class-site-assist-dash.php:573
+msgid "Configure"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:364
+msgid "Connect a Payment Gateway"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:365
+#: inc/launch-guide/class-site-assist-dash.php:374
+msgid "Publish a donation form to make sure it is working."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:366
+msgid "Connect"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:373
+msgid "Publish a Donation Form"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:375
+#: inc/launch-guide/class-site-assist-dash.php:453
+#: inc/launch-guide/class-site-assist-dash.php:462
+#: inc/launch-guide/class-site-assist-dash.php:474
+#: inc/launch-guide/class-site-assist-dash.php:483
+#: inc/launch-guide/class-site-assist-dash.php:708
+#: inc/launch-guide/class-site-assist-dash.php:734
+#: inc/launch-guide/class-site-assist-dash.php:745
+#: inc/launch-guide/class-site-assist-dash.php:755
+#: inc/launch-guide/class-site-assist-dash.php:766
+#: inc/launch-guide/class-site-assist-dash.php:777
+#: inc/launch-guide/class-site-assist-dash.php:793
+#: inc/launch-guide/class-site-assist-dash.php:802
+#: inc/launch-guide/class-site-assist-dash.php:811
+#: inc/launch-guide/class-site-assist-dash.php:820
+#: inc/launch-guide/class-site-assist-dash.php:829
+#: inc/launch-guide/class-site-assist-dash.php:838
+#: inc/launch-guide/class-site-assist-dash.php:847
+msgid "Edit"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:375
+msgid "Create"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:382
+msgid "Set GiveWP in Live Mode"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:383
+msgid "Set GiveWP in live mode to start accepting donations."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:384
+msgid "Disable Test Mode"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:436
+msgid "Site Security Setup"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:437
+msgid "Setup important security standards to prevent hacks and malware."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:441
+msgid "Activate Site Security plugin"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:441
+msgid "Install Site Security plugin"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:442
+msgid "Install and Activate the Solid Security plugin."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:451
+msgid "Setup Security plugin"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:452
+msgid "Complete the one-time setup of the security plugin."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:453
+#: inc/launch-guide/class-site-assist-dash.php:462
+#: inc/launch-guide/class-site-assist-dash.php:474
+#: inc/launch-guide/class-site-assist-dash.php:483
+#: inc/launch-guide/class-site-assist-dash.php:708
+#: inc/launch-guide/class-site-assist-dash.php:734
+#: inc/launch-guide/class-site-assist-dash.php:745
+#: inc/launch-guide/class-site-assist-dash.php:755
+msgid "Setup"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:460
+msgid "(Recommended) Enable Two Factor Login Authentication"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:461
+msgid "Two-Factor Authentication greatly increases the security of your WordPress user account by requiring an additional code along with your username and password to log in."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:472
+msgid "(Recommended) Enable Trusted Devices"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:473
+msgid "Trusted Devices identifies the devices users use to login and can apply additional restrictions to unknown devices."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:481
+msgid "(Recommended) Virtual Patching"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:482
+msgid "Get instant protection against new threats with virtual patching."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:556
+msgid "Website Email Setup"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:557
+msgid "Setup SMTP email to make sure you have good delivery of site notifications and transactional emails."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:561
+msgid "Activate SMTP plugin"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:561
+msgid "Install SMTP plugin"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:562
+msgid "Install and Activate the SMTP plugin."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:571
+msgid "Configure Email Connection"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:572
+msgid "Configure the SMTP plugin to connect to your email provider."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:580
+msgid "Test Email Connection"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:581
+msgid "Test the email connection to make sure it is working."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:582
+msgid "Test"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:621
+msgid "Empty Site Title"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:624
+msgid "Empty Site Tagline"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:627
+msgid "Default WordPress Tagline"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:692
+msgid "AI Starter Site"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:693
+msgid "Get started with your new site by setting up key information and importing a starter site."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:697
+msgid "Activate Kadence AI"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:698
+msgid "Connect Kadence AI to your site by clicking the button below."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:699
+msgid "Connected"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:706
+msgid "Setup Site AI Profile"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:707
+msgid "Setup your site AI profile to get started with your new site."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:715
+msgid "Import Starter Site"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:716
+msgid "Import a starter site to get started with your new site."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:717
+msgid "Re-Import"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:717
+msgid "Import"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:726
+msgid "Basic Site Setup"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:727
+msgid "Get started with your new site by setting up key information."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:731
+msgid "Provide Site Title & Tagline"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:732
+msgid "Give your site a name and a tagline."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:741
+msgid "Set Site Icon"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:742
+msgid "Set the site icon that appears in browser tabs, bookmark bars, and within the WordPress mobile apps."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:743
+msgid "Site Icon"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:743
+#: inc/launch-guide/class-site-assist-dash.php:752
+msgid "Unset"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:751
+msgid "Upload Site Logo"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:753
+msgid "Upload a logo for your site."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:762
+msgid "Set Site Language"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:765
+msgid "Set the language of your site."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:773
+msgid "Set Site Timezone"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:776
+msgid "Set the timezone of your site."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:786
+msgid "Design & Customization"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:787
+msgid "Customize your site to your liking."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:791
+msgid "Customize Colors"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:792
+msgid "Customize the colors of your site."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:800
+msgid "Customize Header"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:801
+msgid "Customize the header of your site."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:809
+msgid "Customize Footer"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:810
+msgid "Customize the footer of your site."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:818
+msgid "Customize Typography"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:819
+msgid "Customize the typography of your site."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:827
+msgid "Customize Buttons"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:828
+msgid "Customize the button styles for your site."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:836
+msgid "Customize Posts Layout"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:837
+msgid "Customize the layout of your posts."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:845
+msgid "Customize Archive Layout"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-dash.php:846
+msgid "Customize the layout of your archive pages."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:61
+msgid "Next"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:62
+msgid "Previous"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:63
+msgid "Finish"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:64
+msgid "Close"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:92
+msgid "Get to know the WordPress admin"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:93
+msgid "Learn about the basics of the WordPress admin and how to navigate."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:100
+msgid "View Site"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:102
+msgid "To view your site from your visitors' perspective, hover over your site name in the top right corner and click \"View Site\"."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:111
+msgid "Manage Blog Posts"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:112
+msgid "You can create, edit, or delete any post on the site."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:121
+msgid "Manage Media"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:122
+msgid "You can add, edit, or remove uploaded images, videos, and documents."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:131
+msgid "Manage Pages"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:132
+msgid "You can create, edit, or delete any page on the site."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:141
+msgid "Manage Blog Post Comments"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:142
+msgid "If you have comments enabled for your blog posts, you can manage, approve, delete, and reply to comments."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:151
+msgid "Manage Site Appearance"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:152
+msgid "Customize your site's design, including themes, widgets, menus, and the customizer."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:161
+msgid "Manage Plugins"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:162
+msgid "Extend your site's functionality with plugins. You can install, activate, deactivate, and delete plugins here."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:171
+msgid "Manage Settings"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:172
+msgid "Configure various aspects of your site, such as general settings, reading settings, permalinks, and more."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:181
+msgid "Manage Profile"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:182
+msgid "Edit your profile information, change your password, and manage your personal settings."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:191
+msgid "Manage Users"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:192
+msgid "Add, edit, or remove users from your site and manage their permissions. You can also reset passwords and update user information, such as email addresses."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:199
+msgid "Get to know the Page Editor"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:200
+msgid "Learn about the basics of the WordPress page editor."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:208
+msgid "Adding a Title"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:209
+msgid "Define the title for your page by filling it in here."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:217
+msgid "Adding Basic Content"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:218
+msgid "You can add basic text by clicking and typing into the editor field."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:224
+msgid "Adding a Block"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:225
+msgid "Click the \"+\" icon to open the block inserter and add new content blocks to your page."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:232
+msgid "Block Inserter"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:233
+msgid "Scroll through available blocks if you need to find specific functionality."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:240
+msgid "Searching for Blocks"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:241
+msgid "Use the search bar to quickly find the block you need."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:248
+msgid "Adding Patterns"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:249
+msgid "You can add ready to use patterns of blocks by clicking on the design library button."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:256
+msgid "Filter Patterns by Category"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:257
+msgid "You can filter through hundreds of patterns to find the perfect fit."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:264
+msgid "Change Pattern Color"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:265
+msgid "You can change the color of every pattern by clicking the color style."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:273
+msgid "Settings"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:274
+msgid "Click on the settings button to open the page settings in the right sidebar."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:282
+msgid "Page Settings"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:283
+msgid "Define general page settings like author, publish date, and page URL."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:291
+msgid "Block Settings"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:292
+msgid "Click on a block to find settings for each block selected in the editor. Each block has its own set of options in the sidebar."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:316
+msgid "Moving Blocks"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:317
+msgid "Use the up and down arrows or drag the handle to rearrange blocks on your page."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:323
+msgid "Managing and Removing Blocks"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:324
+msgid "Click the three dots (options) on the block toolbar to copy, duplicate, or delete blocks by selecting \"Remove Block\"."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:331
+msgid "Post Settings"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:332
+msgid "Click on \"Post Settings\" in the top right to open the layout settings for the page."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:339
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:340
+msgid "In the layout settings, you can define whether the page title should be shown, if the layout should be boxed or unboxed, full-width or normal content width, or if it should have a sidebar."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:346
+msgid "View"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:347
+msgid "Click the \"Preview\" button to see how your page or post will look to visitors."
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:353
+msgid "Publish/Update"
+msgstr ""
+
+#: inc/launch-guide/class-site-assist-tours.php:354
+msgid "Once you are happy with your changes, click \"Publish\" or \"Update\" to make them live on your site."
+msgstr ""
+
+#: inc/resources/Image_Downloader/WordPress_Importer.php:87
+msgid "Photo by %s"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Help"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Changelog"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Dashboard"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Knowledge Base"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Disable Site Assist"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Are you sure you want to disable Site Assist?"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Error loading knowledge base data"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Featured Articles"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "101 Knowledge Base"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Search"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "No results found."
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "External Knowledge Bases"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "View All"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Mark as completed"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Collapse Details"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Expand Details"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Tours"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Learn more about WordPress through a step by step tour."
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Things to do next"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Site Preview"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Edit Site Info"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Edit Site Title"
+msgstr ""
+
+#: dist/starter-dash.js:1
+msgid "Edit Favicon"
+msgstr ""

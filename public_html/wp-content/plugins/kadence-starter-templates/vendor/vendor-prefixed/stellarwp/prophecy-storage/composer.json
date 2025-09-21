@@ -1,0 +1,24 @@
+{
+    "name": "stellarwp/prophecy-storage",
+    "type": "library",
+    "description": "A storage system with multiple drivers.",
+    "license": "GPL-2.0-only",
+    "config": {
+        "vendor-dir": "vendor",
+        "preferred-install": "dist"
+    },
+    "require": {
+        "php": "^7.2 || 8.0.*",
+        "symfony/filesystem": "^3.4|^4.4|^5.4|^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "StellarWP\\ProphecyMonorepo\\Storage\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.1.x-dev"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+.rule_input{ width: 50%; }
+
+.postbox{ position: inherit !important; }
+
+.ratcwp_msg{ width: 100%; font-size: 11px; margin: 0; margin-top: 5px; }
+
+.hide_price_divs{ width: 100%; float: left; padding-top: 30px; }
+
+.hide_div{ width: 100%; float: left; margin-top: 50px; }
+
+.hide_div label { width: 25%; float: left; font-weight: bold; font-size: 14px; }
+
+#userroles, #hp_price, .hp_cart{ display: none; }
+
+.select2-container{ width: 100% !important; }
+
+.ratcwp_hide_field{ width: 70%; float: left; }
+
+.ratcwp_hide_field p{ width: 100%; float: left; }
+
+.ratcwp_hp_input_field { width: 100%; float: left; padding: 10px !important; }
+
+#ratcwprole_save_hide_price{ margin-top: 50px; }
+
+.ratcwp_hide_field ul li ul {
+    padding-left: 20px;
+}
+.show_inquire {
+    display: block !important;
+}
+
+.asked-for-premium {
+    border: 1px solid;
+    font-size: 15px;
+    padding: 10px;
+    display: inline-block;
+}

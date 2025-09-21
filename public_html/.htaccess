@@ -1,0 +1,20 @@
+RewriteEngine on
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
+# BEGIN WordPress
+# Директивы (строки) между `BEGIN WordPress` и `END WordPress`
+# созданы автоматически и подлежат изменению только через фильтры WordPress.
+# Сделанные вручную изменения между этими маркерами будут перезаписаны.
+
+# END WordPress
+
+# START: All in One SEO Sitemap Rewrite Rules
+# Do not make edits to these rules!
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+
+	RewriteRule sitemap(|[0-9]+)\.xml$ /index.php [L]
+	RewriteRule (default|video)-sitemap\.xsl /index.php [L]
+</IfModule>
+# END: All in One SEO Sitemap Rewrite Rules
+php_value memory_limit 512M

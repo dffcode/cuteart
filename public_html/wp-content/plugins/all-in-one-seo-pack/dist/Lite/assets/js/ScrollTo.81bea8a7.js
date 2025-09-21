@@ -1,0 +1,1 @@
+const e=()=>({scrollTo:(o,t={})=>{const s=document.getElementById(o);if(!s)return;const n=t.mods||{};delete t.mods,n!=null&&n.scrollMarginClass&&s.classList.add(n.scrollMarginClass);const r={behavior:"smooth",...t};s.scrollIntoView(r),setTimeout(()=>{n!=null&&n.scrollMarginClass&&s.classList.remove(n.scrollMarginClass)},(n==null?void 0:n.timeout)||500)}});export{e as u};

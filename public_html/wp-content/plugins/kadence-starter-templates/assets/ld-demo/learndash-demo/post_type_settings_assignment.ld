@@ -1,0 +1,1 @@
+[{"name":"LearnDash_Settings_Assignments_CPT","fields":{"exclude_from_search":"yes","publicly_queryable":"yes","comment_status":"yes"}}]

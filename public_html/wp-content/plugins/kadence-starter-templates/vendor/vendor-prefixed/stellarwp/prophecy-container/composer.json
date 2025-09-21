@@ -1,0 +1,27 @@
+{
+    "name": "stellarwp/prophecy-container",
+    "type": "library",
+    "description": "The Prophecy DI container and its contracts.",
+    "license": "GPL-2.0-only",
+    "config": {
+        "vendor-dir": "vendor",
+        "preferred-install": "dist"
+    },
+    "require": {
+        "php": "^7.2 || 8.0.*",
+        "adbario/php-dot-notation": "^2.5|^3.2",
+        "lucatume/di52": "^3.3",
+        "stellarwp/container-contract": "^1.1",
+        "vlucas/phpdotenv": "^4.3|^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "StellarWP\\ProphecyMonorepo\\Container\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.1.x-dev"
+        }
+    }
+}
